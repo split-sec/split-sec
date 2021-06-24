@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**split-sec/split-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About Me</h3>
+I am __Shyam V__. I am a 3rd year Electronics and Communication Enginnering student. I am deeply interested in :unlock:__Cybersecurity__ and __Network Engineering__. I am also learning __Web Development__ to deploy _simple portfolios and websites_ and learn the related languages.
 
-Here are some ideas to get you started:
+I am learning :jp:__Japanese__ now and I intend to learn many more languages in the coming years. And yes, I watch anime:grin:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I'm currently learning C/C++, Python, Web Development and Linux. 
+
+- 💬 Ask me about: I'm beginning as a contributor right now, so I can help beginners to start their GitHub profile or help with Git.
+
+You can reach me out on
+![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)]
+![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)]
