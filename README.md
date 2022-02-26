@@ -1,14 +1,15 @@
-### Hi there 👋
+![Header Banner](https://github.com/split-sec/split-sec/blob/main/header.png)
 
 <h3>About Me</h3>
-I am Shyam V. I am a 3rd year Electronics and Communication Enginnering student. I am deeply interested in :unlock: Cybersecurity and Network Engineering. I am also learning __Web Development__ to deploy _simple portfolios and websites_ and learn the related languages.
+I am an engineering student interested in **Web Development**, **Python** and **Blockchain technology**.
 
-I am learning :jp:Japanese now and I intend to learn many more languages in the coming years. And yes, I watch anime:grin:.
+I am learning Japanese right now and I intend to learn many more languages in the coming years. And yes, I watch anime😬
 
-- :computer: I'm currently learning C/C++, Python, Web Development and Linux. 
+You can reach me out on  
 
-- 💬 Ask me about: I'm beginning as a contributor right now, so I can help beginners to start their GitHub profile or help with Git.
-
-You can reach me out on
-![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)
+<a href="https://twitter.com/shyamvvv">
+  <img align="left" alt="Shyam Venkatesh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shyam-venkatesh/">
+  <img align="left" alt="Shyam Venkatesh | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
