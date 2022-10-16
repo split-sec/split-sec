@@ -1,7 +1,7 @@
 ![Header Banner](https://github.com/split-sec/split-sec/blob/main/header.png)
 
 <h3>About Me</h3>
-I am an engineering student interested in **Web Development**, **Python** and **Blockchain technology**.
+I am an engineering student interested in *Web Development*, *Python* and *Blockchain Technology*.
 
 I am learning Japanese right now and I intend to learn many more languages in the coming years. And yes, I watch anime😬
 
