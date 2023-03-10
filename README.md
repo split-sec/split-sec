@@ -1,5 +1,3 @@
-![Header Banner](https://github.com/split-sec/split-sec/blob/main/header.png)
-
 <h3>About Me</h3>
 
 I am an engineering student interested in **Web Development** and **Blockchain Technology**. Currently, I am working as a **Product Engineer Intern** at **CodingMart Technologies**, where I am learning to build responsive applications using **ReactJS**.
@@ -11,8 +9,8 @@ I am learning Japanese right now and I intend to learn many more languages in th
 You can reach me out on:
 
 <a href="https://twitter.com/shyamvvv">
-  <img align="left" alt="Shyam Venkatesh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+Twitter
 </a>
 <a href="https://www.linkedin.com/in/shyam-venkatesh/">
-  <img align="left" alt="Shyam Venkatesh | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+LinkedIn
 </a>
